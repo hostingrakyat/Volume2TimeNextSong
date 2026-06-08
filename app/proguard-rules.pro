@@ -1,0 +1,2 @@
+-keep class com.hostingrakyat.volume2timenextsong.** { *; }
+-keepclassmembers class * extends android.accessibilityservice.AccessibilityService { *; }
